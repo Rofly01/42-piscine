@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/799651529442328600/1186838159452020736/github_piscine_and_common_core_banner_piscine.png?ex=6594b42b&is=65823f2b&hm=25c6638ad12fc834e31b62af27f3ad87f5c4ed83962be12f45ecf9092a0b63b1&"/>
+    <img src="https://github.com/rrofly/rrofly/blob/main/images/42-Lisboa_CMYK_Horizontal.jpg" height=200/>
 </p>
 
 <p align="center">
