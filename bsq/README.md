@@ -11,7 +11,7 @@
 
 ## ABOUT
 
-C Piscine’s final Project! - [Subject](https://github.com/Rofly01/42-libft) (out of date)
+C Piscine’s final Project! - [Subject](https://github.com/rrofly/42-piscine/blob/main/bsq/bsq.en.pdf) (out of date)
 
 Will you find the biggest square ?
 
