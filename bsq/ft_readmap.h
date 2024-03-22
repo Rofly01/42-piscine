@@ -69,20 +69,17 @@ int	ft_contentuser(char *content)
 void	ft_readmap(int file)
 {
 	char	*content;
-	int		bytes_read;
 	int		l;
-	int		s;
 
 	l = 0;
-	s = 0;
 	g_map.nbrl = 0;
 	content = (char *)malloc(sizeof(char) * M3_BUFF);
 	if (file == -1)
 		exit(1);
 	else if (file == -2)
-		bytes_read = ft_contentuser(content);
+		ft_contentuser(content);
 	else
-		bytes_read = read(file, content, M3_BUFF);
+		read(file, content, M3_BUFF);
 	while (content[l] != '\n')
 		l++;
 	g_map.che = content[l - 1];

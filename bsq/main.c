@@ -87,7 +87,7 @@ int	main(int argc, char *argv[])
 	i = 1;
 	if (argc == 1)
 	{
-		write(1, "Insert the characters. Press CTRL + D to finish.\n", 67);
+		write(1, "Insert the characters. Press CTRL + D to finish.\n", 50);
 		ft_readmap(-2);
 		ft_callft(argc);
 	}
