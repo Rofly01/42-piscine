@@ -23,12 +23,12 @@ perl ./map.pl {line size} {number of lines} {density} > {filename}
 ```
 
 ## BSQ
-Create program:
+Create executable:
 ```sh
 make bsq
 ```
 
-Recreate program:
+Recreate executable:
 ```sh
 make re
 ```
@@ -37,3 +37,9 @@ Execute:
 ```sh
 bsq {map filename}
 ```
+
+Extra:
+```sh
+bsq
+```
+>
